@@ -1,0 +1,165 @@
+
+
+body{
+  background-color: rgb(213, 208, 236);
+}
+.HEADER{
+  background-color: rgb(11, 11, 179);
+  color: white;
+}
+.parent{
+  display: flex;
+  flex-direction: row;  
+}
+.click{
+  display:flex;
+  flex-direction: row;
+  padding: 20px;
+  align-items: center;
+  margin-left: 100px;
+  color: white;
+}
+.click  a{
+  color: white;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+
+
+.parent-2{
+  background: 
+  linear-gradient(
+    rgb(241, 27, 27)
+    rgb(219, 233, 24)
+  );
+  background-image: url(  
+    ./websit\ images/data-image.jpeg
+  );
+  background-size: cover;
+  background-position: center;
+  padding: 100px 20px;
+  text-align: center;
+  color: rgb(5, 5, 133);
+}
+.courses{
+  text-align: center;
+}
+.h1{
+  color: rgb(26, 7, 196);
+}
+.parent-3{
+  display: flex;
+  flex: 1 1 300px;
+  flex-direction:row;
+  justify-content: center;
+}
+
+.parent-3:hover{
+  transform: translateX(5px);
+  box-shadow: 0.10px 0.10px 0.10px 0.10px rgb(7, 7, 187);
+  cursor: pointer;
+}
+.parent-3 h2{
+  color: rgb(4, 4, 110);
+}
+
+.first-div{
+  background-color: white;
+  border-color: rgb(7, 7, 187);
+  border-style: solid;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+}
+.data-image{
+  width: 300px;
+  border-radius: 10px;
+}
+.second-div{
+  margin-left: 20px;
+  background-color: white;
+  border-color: rgb(7, 7, 187);
+  border-style: solid;
+  text-align: center;
+  width: 300px;
+  border-radius: 10px;
+}
+.va-image{
+  width: 300px;
+  border-radius: 10px;
+}
+.third-div{
+  background-color: white;
+  border-color:rgb(7, 7, 187);
+  border-style: solid;
+  width: 300px;
+  text-align: center;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+.web-image{
+  width: 300px;
+  border-radius: 10px;
+}
+.parent-4{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.pare
+.parent-4 h2{
+  color:rgb(4, 4, 110) ;
+}
+.fourth-div{
+  background-color: white;
+  border-style: solid;
+  border-radius: 10px;
+  text-align: center;
+  width: 300px;
+  border-color: rgb(7, 7, 187);
+  margin-right: 10px;
+}
+.sql-image{
+  width: 300px;
+  border-radius: 10px;  
+}
+.fifth-div{
+  background-color: white;
+  border-color: rgb(7, 7, 187);
+  border-style: solid;
+  text-align: center;
+  width: 300px;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.BI-image{
+  width: 300px;
+  border-radius: 10px;
+}
+.sixth-div{
+  background-color: white;
+  border-color: rgb(7, 7, 187);
+  border-style: solid;
+  text-align: center;
+  width: 300px;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+.office-image{
+  width: 300px;
+  border-radius: 10px;  
+}
+.about{
+  text-align: center;
+  background-color: rgb(14, 194, 194);
+}
+.about-2{
+  color:rgb(26, 7, 196) ;
+}
+.contact{
+  text-align: center;
+ 
+}
+.us{
+  color: rgb(26, 7, 196);
+}
